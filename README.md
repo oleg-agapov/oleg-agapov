@@ -2,7 +2,7 @@
 
 I like **Data Analysis**, **Data Engineering** and **Web Development**.
 
-In a free time I'm writing my [Data Engineering book](https://github.com/oleg-agapov/data-engineering-book) and articles for [Medium](https://medium.com/@oleg.agapov).
+In a free time write my [Data Engineering book](https://github.com/oleg-agapov/data-engineering-book) and articles on [Medium](https://medium.com/@oleg.agapov).
 
 Reach me on [twitter](https://twitter.com/oleg_agapov_) or [telegram](https://t.me/oleg_agapov).
 
