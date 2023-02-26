@@ -6,7 +6,7 @@ I'm from Ukraine 🇺🇦!
 
 Today we need your help to fight with russian aggression against my country. 
 
-**Please support** our people by making a donation to https://www.comebackalive.in.ua/donate
+**Please support** our people by making a donation to [Come Back Alive](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly) charity.
 
 ---
 
