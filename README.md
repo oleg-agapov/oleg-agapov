@@ -1,10 +1,8 @@
-# Hey there 👋, I'm Oleg!
+# Hey there 👋, I'm Oleg 🇺🇦!
 
 ---
 
-I'm from Ukraine 🇺🇦! 
-
-I'm an **Analytics and Data Engineer** with 12+ years of experience in Data & Analytics.
+I'm experienced **Analytics Engineer** who is passionate about data & analytics.
 
 For personal and enterprise dbt coaching reach me on [LinkedIn](https://www.linkedin.com/in/oleg-agapov/).
 
